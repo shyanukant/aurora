@@ -1,4 +1,4 @@
-export default chatFaceData=[
+const chatFaceData=[
     {
         id:1,
         name:'Aida',
@@ -34,4 +34,6 @@ export default chatFaceData=[
         primary:'#2473FE',
         secondary:''
     },
-]
+];
+
+export default chatFaceData;
