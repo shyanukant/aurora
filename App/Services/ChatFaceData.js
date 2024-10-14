@@ -2,35 +2,35 @@ const chatFaceData=[
     {
         id:1,
         name:'Aida',
-        image:'https://res.cloudinary.com/dknvsbuyy/image/upload/v1685678135/chat_1_c7eda483e3.png',
+        image:'https://github.com/shyanukant/aurora/blob/main/App/Assets/chat.png',
         primary:'#FFC107',
         secondary:''
     },
     {
         id:2,
         name:'Chom',
-        image:'https://res.cloudinary.com/dknvsbuyy/image/upload/v1685709886/image_21_2e18bb4a61.png',
+        image:'https://github.com/shyanukant/aurora/blob/main/App/Assets/aibuddy2.png',
         primary:'#E53057',
         secondary:''
     },
     {
         id:3,
         name:'Luna',
-        image:'https://res.cloudinary.com/dknvsbuyy/image/upload/v1685709886/image_22_409561b953.png',
+        image:'https://github.com/shyanukant/aurora/blob/main/App/Assets/aibuddy.png',
         primary:'#3B96D2',
         secondary:''
     },
     {
         id:4,
         name:'Nix',
-        image:'https://res.cloudinary.com/dknvsbuyy/image/upload/v1685709886/image_18_893d24cebc.png',
+        image:'https://github.com/shyanukant/aurora/blob/main/App/Assets/aibuddy3.png',
         primary:'#37474F',
         secondary:''
     },
     {
         id:5,
         name:'Zee',
-        image:'https://res.cloudinary.com/dknvsbuyy/image/upload/v1685709886/image_23_211d7370cb.png',
+        image:'https://github.com/shyanukant/aurora/blob/main/App/Assets/aibuddy4.png',
         primary:'#2473FE',
         secondary:''
     },

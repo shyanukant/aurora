@@ -9,7 +9,7 @@ import { FontAwesome } from '@expo/vector-icons';
 import ChatFaceData from '../Services/ChatFaceData';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const CHAT_BOT_FACE='https://res.cloudinary.com/dknvsbuyy/image/upload/v1685678135/chat_1_c7eda483e3.png'
+const CHAT_BOT_FACE='https://github.com/shyanukant/aurora/blob/main/App/Assets/chat.png'
 export default function ChatScreen() {
     const [messages, setMessages] = useState([]);
     const [loading, setLoading] = useState(false);
