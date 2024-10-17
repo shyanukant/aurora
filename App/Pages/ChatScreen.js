@@ -9,7 +9,7 @@ import { FontAwesome } from '@expo/vector-icons';
 import ChatFaceData from '../Services/ChatFaceData';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const CHAT_BOT_FACE='https://github.com/shyanukant/aurora/blob/main/App/Assets/chat.png'
+const CHAT_BOT_FACE= "https://firebasestorage.googleapis.com/v0/b/aurora-f935c.appspot.com/o/buddy.png?alt=media&token=8fe29d94-1dd7-4900-8204-f6dacbc285df";
 export default function ChatScreen() {
     const [messages, setMessages] = useState([]);
     const [loading, setLoading] = useState(false);
@@ -31,7 +31,7 @@ export default function ChatScreen() {
           user: {
             _id: 2,
             name: 'React Native',
-            avatar: CHAT_BOT_FACE,
+            avatar: <TbMessageChatbotFilled />,
         
         },
          
