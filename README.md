@@ -3,7 +3,7 @@ _Aurora chatbot (React, Gemini API, Expo)_
 
 
 ## Demo
-![Aurora Chatbot Demo](https://firebasestorage.googleapis.com/v0/b/aurora-f935c.appspot.com/o/expo_demo-ezgif.com-video-to-gif-converter%20(1).gif?alt=media&token=88c885a1-6a8a-43c0-8754-3eb156921993)
+![Aurora Chatbot Demo](assets/demo.gif)
 ## Related
 
 [Aurora Api](https://github.com/shyanukant/aurora-api)
